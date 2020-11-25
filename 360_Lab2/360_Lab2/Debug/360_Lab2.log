@@ -1,0 +1,30 @@
+﻿  main.c
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(59,46): warning C4047:  '==': 'char [64]' differs in levels of indirection from 'int'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(63,55): warning C4047:  '==': 'char [64]' differs in levels of indirection from 'int'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(82,46): warning C4047:  '==': 'char [64]' differs in levels of indirection from 'int'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(88,12): warning C4033:  'rmdir' must return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(92,55): warning C4047:  '==': 'char [64]' differs in levels of indirection from 'int'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(98,12): warning C4033:  'rmdir' must return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(179,18): warning C4047:  'function': 'const char *' differs in levels of indirection from 'char [16][64]'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(179,18): warning C4024:  'strcmp': different types for formal and actual parameter 1
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(179,40): warning C4047:  'function': 'const char *' differs in levels of indirection from 'char [16][64]'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(179,40): warning C4024:  'strcmp': different types for formal and actual parameter 1
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(179,62): warning C4047:  'function': 'const char *' differs in levels of indirection from 'char [16][64]'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(179,62): warning C4024:  'strcmp': different types for formal and actual parameter 1
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(200,22): warning C4047:  'function': 'char *' differs in levels of indirection from 'char'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(200,22): warning C4024:  'strcpy': different types for formal and actual parameter 1
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(295,19): warning C4047:  '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(337,18): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(340,13): warning C4047:  'function': 'char *' differs in levels of indirection from 'char [16][64]'
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(340,13): warning C4024:  'strcpy': different types for formal and actual parameter 1
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(70): warning C4716:  'rm': must return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(105): warning C4715:  'rmdir': not all control paths return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(123): warning C4716:  'insert_child': must return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(171): warning C4715:  'mkdir': not all control paths return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(234): warning C4715:  'creat': not all control paths return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(276): warning C4716:  'ls': must return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(297): warning C4715:  'cd': not all control paths return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(317): warning C4716:  'initialize': must return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(329): warning C4716:  'print_commands': must return a value
+C:\Users\travis.cripe\Desktop\360\360_Lab2\360_Lab2\main.c(353): warning C4716:  'tokenize': must return a value
+  360_Lab2.vcxproj -> C:\Users\travis.cripe\Desktop\360\360_Lab2\Debug\360_Lab2.exe
